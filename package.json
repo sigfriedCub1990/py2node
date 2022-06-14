@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@types/jest": "^28.1.1",
+    "@types/ramda": "^0.28.14",
     "jest": "^28.1.1"
   },
   "dependencies": {
